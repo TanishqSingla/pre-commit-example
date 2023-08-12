@@ -12,7 +12,7 @@
       "error",
       {
         "semi": true,
-        "useTab": true
+        "useTabs": true
       }
 
     ],
